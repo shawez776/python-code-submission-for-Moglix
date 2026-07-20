@@ -1,6 +1,3 @@
-# python-code-submission-for-Moglix
-Write a program: Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring. 
-
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
         max_len = 0
